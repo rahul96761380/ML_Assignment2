@@ -127,4 +127,8 @@ After running the last command, open the local URL displayed in the terminal.
 
 ## Streamlit Deployment
 
-The live application link will be added here after deployment.
+The application is deployed using Streamlit Community Cloud.
+
+**Live Application:** [Dry Bean Classification Lab](https://mlassignment2-aw99ivrqhyo8ws4oxtjwcj.streamlit.app/)
+
+**GitHub Repository:** [ML_Assignment2](https://github.com/rahul96761380/ML_Assignment2)
